@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá! Sou David André Daniel 👋
 
-<!--
-**nidavellir-dev/nidavellir-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Backend Developer
 
-Here are some ideas to get you started:
+Desenvolvedor Java focado na construção de aplicações backend, APIs REST e sistemas orientados à resolução de problemas reais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e ferramentas
+
+- **Linguagem:** Java
+- **Backend:** Spring Boot, Spring Data JPA
+- **Base de dados:** MySQL, PostgreSQL
+- **Ferramentas:** Git, GitHub, Maven, IntelliJ IDEA
+- **Frontend:** HTML, CSS e JavaScript
+
+### 🚀 Projectos
+
+- **Sistema de Gestão Comercial:** aplicação backend desenvolvida com Java, Spring Boot e MySQL, com módulos de produtos, categorias, compras, vendas e controlo de stock.
+- **SIG Biblioteca:** projecto de gestão bibliotecária desenvolvido com JavaFX e base de dados.
+
+### 🎯 Objectivo profissional
+
+Evoluir continuamente na Engenharia de Software, aprofundando conhecimentos em desenvolvimento backend, arquitectura de aplicações e construção de soluções escaláveis.
+
+---
+
+*Aprender, construir e evoluir através de projectos reais.*
